@@ -31,7 +31,6 @@
             Subtract(34, 29);
             Divide(6, 2);
             Multiply(6, 2);
-            Console.WriteLine(Add);
         
         //param
         Curry(5, 6, 3); //This will make a curry with 5 spices, 6 solid ingredients, 3 liquids
